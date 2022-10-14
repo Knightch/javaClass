@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author amank
+ *
+ */
+module JavaLearningPlatform {
+}
